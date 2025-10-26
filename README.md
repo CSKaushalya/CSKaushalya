@@ -39,10 +39,11 @@ I am a detail-oriented QA Engineer dedicated to ensuring software excellence. I 
 * **[School-Bell](https://github.com/CSKaushalya/School-Bell-)** - Logic-based application focused on edge-case handling.
 
 ---
-
 ### 📫 Connect with me
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/chamodi-sandeepani-kaushalya/]
-- 📧 **Email:** [chamodi.sandeepanikaushalya@gmail.com]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamodi-sandeepani-kaushalya/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamodi.sandeepanikaushalya@gmail.com)
+
 
 ---
 *"Quality is not an act, it is a habit."*
