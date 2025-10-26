@@ -41,7 +41,7 @@ I am a detail-oriented QA Engineer dedicated to ensuring software excellence. I 
 ---
 
 ### 📫 Connect with me
-- 💼 **LinkedIn:** [linkedin.com/in/chamodi-sandeepani-kaushalya]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/chamodi-sandeepani-kaushalya/]
 - 📧 **Email:** [chamodi.sandeepanikaushalya@gmail.com]
 
 ---
