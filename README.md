@@ -5,7 +5,7 @@ I am a detail-oriented QA Engineer dedicated to ensuring software excellence. I 
 
 ---
 
-### 🧪 Quality Assurance Toolkit
+### 🧪 Software Testing Toolkit
 
 **Testing & Automation:**
 ![Playwright](https://img.shields.io/badge/-Playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -27,8 +27,8 @@ I am a detail-oriented QA Engineer dedicated to ensuring software excellence. I 
 
 ### 📊 GitHub Activity
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CSKaushalya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSKaushalya&layout=compact&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CSKaushalya&show_icons=true&theme=radical" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSKaushalya&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ I am a detail-oriented QA Engineer dedicated to ensuring software excellence. I 
 ---
 
 ### 📫 Connect with me
-- 💼 **LinkedIn:** [inkedin.com/in/chamodi-sandeepani-kaushalya]
+- 💼 **LinkedIn:** [linkedin.com/in/chamodi-sandeepani-kaushalya]
 - 📧 **Email:** [chamodi.sandeepanikaushalya@gmail.com]
 
 ---
